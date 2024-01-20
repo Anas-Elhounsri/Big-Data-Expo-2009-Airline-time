@@ -1,5 +1,5 @@
 # Big Data Sparks: Expo 2009 Airline Time
-
+This Project was done with @Anas-ElHounsri and @Mlpalacios8
 What you are abou to read is a comphrensive summary of the data processing and data science techniques applied to the given dataset, as well as the results of our Machine Learnin implementation.
 
 This is a Big Data project were we predict the possible time delay for flights using the [Data Expo 2009: Airline](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7) dataset.
